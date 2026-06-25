@@ -69,6 +69,8 @@ The result is a professional-grade lighting controller with a responsive dark-th
    pio run --target upload
 
 ```
+
+![image alt](https://github.com/tissots/esp32-web-based-10-led-4017-chaser/blob/main/IMG_20260616_140032_238.jpg?raw=true)
  3. **Hardware Setup** (See Circuit Diagram below)
  4. **Connect to the Device**
  * Scan for Wi-Fi network ESP32-LED-Chaser
