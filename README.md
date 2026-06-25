@@ -254,20 +254,11 @@ We love contributions! Please follow this workflow to submit updates:
 
 Distributed under the **MIT License**. See `LICENSE` file for more information.
 
----
-
-## Acknowledgments
-
-* [PlatformIO](https://www.google.com/search?q=https%3A%2F%2Fplatformio.org%2F) for the elite development ecosystem.
-* [me-no-dev](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fme-no-dev) for the asynchronous web server engine.
-* The entire ESP32 community for continuous inspiration!
-
----
 
 ## Contact
 
-**Project Maintainer:** [Your Name](https://www.google.com/search?q=mailto%3Ayour.email%40example.com)
+**Project Maintainer:** [brian tissots](https://www.google.com/search?q=mailto%3Ayour.email%40example.com)
 
-**Project Link:** [https://github.com/yourusername/esp32-4017-led-chaser](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fyourusername%2Fesp32-4017-led-chaser)
+**Project Link:** [https://github.com/tissots/esp32-4017-led-chaser](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fyourusername%2Fesp32-4017-led-chaser)
 
 ---
