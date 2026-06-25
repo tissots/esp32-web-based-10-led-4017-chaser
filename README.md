@@ -5,6 +5,7 @@
   <a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
 </p>
+![image alt](https://github.com/tissots/esp32-web-based-10-led-4017-chaser/blob/main/IMG_20260616_135246_502.jpg?raw=true)
 
 <p align="center"><strong>An advanced, high-performance LED sequencer that combines the computational power of an ESP32 with the classic CD4017 decade counter, featuring real-time web control over 8 dynamic lighting patterns.</strong></p>
 
