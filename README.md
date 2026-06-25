@@ -5,7 +5,6 @@
   <a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
 </p>
-![image alt](https://github.com/tissots/esp32-web-based-10-led-4017-chaser/blob/main/IMG_20260616_135246_502.jpg?raw=true)
 
 <p align="center"><strong>An advanced, high-performance LED sequencer that combines the computational power of an ESP32 with the classic CD4017 decade counter, featuring real-time web control over 8 dynamic lighting patterns.</strong></p>
 
@@ -14,6 +13,7 @@
 ## <font color="#2ecc71">Overview</font>
 
 This project reimagines the traditional 4017 LED chaser by decoupling the control logic from the timing hardware. Using an **ESP32** as the master controller, it generates precise, high-frequency pulse trains to drive the **CD4017** into complex, non-sequential behaviors that would be impossible with traditional 555-timer-based designs.
+![image alt](https://github.com/tissots/esp32-web-based-10-led-4017-chaser/blob/main/IMG_20260616_135246_502.jpg?raw=true)
 
 The result is a professional-grade lighting controller with a responsive dark-themed web dashboard, allowing instant pattern switching, speed control, and global brightness management—all over an isolated **Wi-Fi Access Point**.
 
