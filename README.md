@@ -208,6 +208,5 @@ Distributed under the **MIT License**. See LICENSE file for more information.
 ## <font color="#2980b9">Contact</font>
 **Project Maintainer:** brian tissots
 **Project Link:** https://github.com/tissots/esp32-4017-led-chaser
-<p align="center">
-Made with programming, circuitry, and lots of blinking LEDs
+<p align="center"
 </p>
