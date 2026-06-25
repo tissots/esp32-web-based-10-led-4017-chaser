@@ -39,6 +39,8 @@ The result is a professional-grade lighting controller with a responsive dark-th
 * **Clean Signal Generation:** Eliminates jitter through dedicated timer interrupts.
 * **Future-Ready:** GPIO allocation supports easy expansion to additional 4017s.
 
+![image alt](https://github.com/tissots/esp32-web-based-10-led-4017-chaser/blob/main/IMG_20260616_140047_711.jpg?raw=true)
+
 ---
 
 ## <font color="#e67e22">Quick Start</font>
